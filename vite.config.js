@@ -3,6 +3,7 @@ import purgecss from 'vite-plugin-purgecss'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/portafolio/",
   plugins: [
     purgecss({
       content: [

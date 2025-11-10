@@ -1,10 +1,10 @@
 [
   {
     "title": "Proyecto Artesan Café",
-    "image": "src/assets/ArtesanCafe.png"
+    "image": "ArtesanCafe.png"
   },
   {
     "title": "Proyecto Novelia Editorial",
-    "image": "src/assets/NoveliaEditorial.png"
+    "image": "NoveliaEditorial.png"
   }
 ]
